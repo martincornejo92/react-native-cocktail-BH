@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "cocktail-APP",
+    "description": "Buscador de cocktail",
+    "slug": "cocktail-search",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png",
+      "hideExponentText": false
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
